@@ -3,4 +3,7 @@
 First edit by David
 
 Second edit by Shawn 
-David's conflicting edit
+'s 
+Checking for inability to merge
+
+This is David makiing a change with Nathan
